@@ -1,7 +1,15 @@
-### Hi there, I'm Merijntje 👋
+![githubbanner](https://user-images.githubusercontent.com/1315327/126971125-abf6295b-2ab3-47b8-8acf-ff10faa5c2ad.png)
 
+    
+[![Linkedin Badge](https://img.shields.io/badge/-MerijntjeTak-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merijntjetak/)](https://www.linkedin.com/in/merijntjetak/)
+[![SuperUser Badge](https://img.shields.io/badge/-MerijntjeTak-white?style=flat&logo=superuser&logoColor=blue&link=https://superuser.com/users/283161/mtak)](https://superuser.com/users/283161/mtak)
+[![Keybase Badge](https://img.shields.io/badge/-mtak-white?style=flat&logo=keybase&logoColor=orange&link=https://keybase.io/mtak)](https://keybase.io/mtak)
+[![Website Badge](https://img.shields.io/badge/-mtak.nl-blue?style=flat&logo=HTML5&logoColor=white&link=https://mtak.nl/)](https://mtak.nl/)
+[![Website Badge](https://img.shields.io/badge/-mtakconsultancy.nl-ff5722?style=flat&logo=HTML5&logoColor=white&link=https://mtakconsultancy.nl/)](https://mtakconsultancy.nl/)
+[![Website Badge](https://img.shields.io/badge/-tak.io-ff5722?style=flat&logo=HTML5&logoColor=white&link=https://tak.iol/)](https://tak.io/)
+    
 ---
-
+<div align="center">
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img align="center"
@@ -11,13 +19,7 @@ src="https://github-readme-stats.vercel.app/api?username=mtak&count_private=true
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtak&langs_count=3&theme=radical" alt="Top Langs">
 </a>
 </p>
-
-<p>
-<a href="https://stackexchange.com/users/3585168/mtak?tab=accounts" target="_blank">
-  <img src="https://stackexchange.com/users/flair/3585168.png">
-</a>
-</p>
-
+</div>
 
 <!--
 **mtak/mtak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
