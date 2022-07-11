@@ -5,7 +5,6 @@
 [![SuperUser Badge](https://img.shields.io/badge/-SuperUser-white?style=flat&logo=superuser&logoColor=blue&link=https://superuser.com/users/283161/mtak)](https://superuser.com/users/283161/mtak)
 [![Keybase Badge](https://img.shields.io/badge/-Keybase-white?style=flat&logo=keybase&logoColor=orange&link=https://keybase.io/mtak)](https://keybase.io/mtak)
 [![Website Badge](https://img.shields.io/badge/-mtak.nl-blue?style=flat&logo=HTML5&logoColor=white&link=https://mtak.nl/)](https://mtak.nl/)
-[![Website Badge](https://img.shields.io/badge/-mtakconsultancy.nl-ff5722?style=flat&logo=HTML5&logoColor=white&link=https://mtakconsultancy.nl/)](https://mtakconsultancy.nl/)
 [![Website Badge](https://img.shields.io/badge/-tak.io-ff5722?style=flat&logo=HTML5&logoColor=white&link=https://tak.iol/)](https://tak.io/)
     
 ---
