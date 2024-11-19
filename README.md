@@ -1,7 +1,5 @@
 ![githubbanner](https://user-images.githubusercontent.com/1315327/126971125-abf6295b-2ab3-47b8-8acf-ff10faa5c2ad.png)
 
-<div align="center">
-
 ```bash
 web-user@mtak.nl:~$ finger mtak
 Login name: mtak                        In real life: Merijntje Tak
