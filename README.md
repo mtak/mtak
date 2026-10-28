@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="assets/github-hero.png" alt="A playful, colorful computer lab full of tiny servers, terminals, a satellite, and network cables; github.com/mtak is written in the open space at left" width="100%">
+  <img
+    src="assets/github-hero.png"
+    alt="A playful, colorful computer lab full of tiny servers, terminals, a satellite, and network cables; github.com/mtak is written in the open space at left"
+    width="2172"
+    height="724">
 </div>
 
 <div align="center">
