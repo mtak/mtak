@@ -1,24 +1,39 @@
-![githubbanner](https://user-images.githubusercontent.com/1315327/126971125-abf6295b-2ab3-47b8-8acf-ff10faa5c2ad.png)
+<div align="center">
+  <img src="assets/github-hero.png" alt="A playful, colorful computer lab full of tiny servers, terminals, a satellite, and network cables; github.com/mtak is written in the open space at left" width="100%">
+</div>
 
 <div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merijntjetak/)](https://www.linkedin.com/in/merijntjetak/)
-[![Website Badge](https://img.shields.io/badge/-tak.io-ff5722?style=flat&logo=HTML5&logoColor=white&link=https://tak.io/)](https://tak.io/)
-
+  <samp>THE HAGUE AREA · THE NETHERLANDS</samp><br>
+  <a href="https://www.linkedin.com/in/merijntjetak/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://tak.io">Tak.io</a>
 </div>
 
-```bash
-web-user@mtak.nl:~$ finger mtak
-Login name: mtak                        In real life: Merijntje Tak
-Directory: /home/mtak                   Shell: /bin/bash
-No unread mail
-Plan:
------BEGIN GEEK CODE BLOCK-----
-Version: 3.1
-GCS/IT/S d++ s+:+ a- C++$ ULS++++$ P+++$>++++ L++>+++ E--- W++ w !M-- V 
-t+ 5++ tv-- b+ e h--- r+++ y+++
-------END GEEK CODE BLOCK------ 
+## `mtak@github:~$`
 
-web-user@mtak.nl:~$ 
-```
-</div>
+I like computers close to the metal and services close to home. I build and tinker across Linux, networking, containers, automation, and small bits of hardware—usually following a question until I understand how the whole thing works.
+
+This profile is a box of useful tools, experiments, and projects that escaped the workbench.
+
+### A few things from the workbench
+
+| Project | What it does |
+| --- | --- |
+| [Slate](https://github.com/mtak/Slate) | A minimalist e-paper display. |
+| [docker-nsupdate-ddns](https://github.com/mtak/docker-nsupdate-ddns) | Dynamic DNS updates with `nsupdate`, packaged for Docker. |
+| [Woonveilig_GATE-03-to-MQTT](https://github.com/mtak/Woonveilig_GATE-03-to-MQTT) | Publishes alarm-system state to MQTT. |
+| [tracestore](https://github.com/mtak/tracestore) | Stores traceroutes from NetFlow data for later analysis. |
+| [SynthBits](https://github.com/mtak/SynthBits) | Code and schematics from a synthesizer project. |
+
+There are more experiments in [the full repository list](https://github.com/mtak?tab=repositories), from home automation to routing and self-hosted services.
+
+<details>
+  <summary><code>geekcode --show</code></summary>
+
+  ```text
+  GCS/IT/S d++ s+:+ a- C++$ ULS++++$ P+++$>++++ L++>+++ E--- W++ w !M-- V
+  t+ 5++ tv-- b+ e h--- r+++ y+++
+  ```
+</details>
+
+<sub>For freelance engineering and consulting, I work through <a href="https://tak.io">Tak.io</a>.</sub>
